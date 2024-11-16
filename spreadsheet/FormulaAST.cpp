@@ -460,8 +460,8 @@ public:
     }
 };
 
-}  // namespace
-}  // namespace ASTImpl
+}
+}
 
 FormulaAST ParseFormulaAST(std::istream& in) {
     using namespace antlr4;
